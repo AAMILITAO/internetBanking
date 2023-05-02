@@ -1,0 +1,6 @@
+com/santander/internetbank/services/CustomerService.class
+com/santander/internetbank/model/Customer.class
+com/santander/internetbank/SwaggerConfig.class
+com/santander/internetbank/repository/CustomerRepository.class
+com/santander/internetbank/controller/CustomerController.class
+com/santander/internetbank/ApiCustomerAccountApplication.class
